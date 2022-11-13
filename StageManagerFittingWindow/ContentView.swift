@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  StageManagerFittingWindow
 //
-//  Created by ibis on 2022/11/13.
+//  Created by cassaicus on 2022/11/13.
 //
 
 import SwiftUI
