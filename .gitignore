@@ -1,0 +1,41 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcuserstate
+
+# ビルド成果物
+*.app
+*.ipa
+*.xcarchive
+
+# シミュレータ
+*.simruntime
+*.simdevice
+
+# CocoaPods
+Pods/
+# (Podfile と Podfile.lock は必ずコミット)
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+.build/
+
+# 秘密情報 (例)
+*.plist
+*.xcconfig
+*.pem
+*.p12
+*.cer
+
+# テスト結果
+*.xcresult
+TestResults/
+
+# OS / IDE メタデータ
+.DS_Store
+.idea/
+.vscode/
